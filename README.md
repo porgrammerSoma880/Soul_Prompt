@@ -25,24 +25,32 @@ A command-line tool that delivers personalized motivational quotes with smooth a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/terminal-motivator.git
-   cd terminal-motivator
+   git clone https://github.com/dishan1223/Soul_Prompt.git 
+   cd Soul_Prompt 
+   ```
 
 
-Run the Python script:
-
->>>python motivate.py YourName
+2. Run the Python script:
+    ```bash
+    python3 SoulPrompt.py
+    ```
+    or,
+    ```bash
+    python SoulPrompt.py
+    ```
 
 
 
 
 Example:
 
->>>python motivate.py Soma
+```bash
+python3 SoulPrompt.py Soma
+```
 
 
-#output:
-
+# output:
+```
 Soma, fail fast, learn faster.
 
 Build what others fear.
@@ -50,14 +58,16 @@ Build what others fear.
 Remember, success loves bold minds.
 
 Test, break, rebuild—repeat.
+```
 
-...      #motivation quotes will keep appearing on your terminal screen, giving you time to absorb each message.
+...      
+## motivation quotes will keep appearing on your terminal screen, giving you time to absorb each message.
 
 
 
 
 
-Requirements ⚙️:
+# Requirements ⚙️:
 
 Python 3.x
 
