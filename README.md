@@ -32,11 +32,11 @@ A command-line tool that delivers personalized motivational quotes with smooth a
 
 2. Run the Python script:
     ```bash
-    python3 SoulPrompt.py
+    python3 soul_prompt.py
     ```
     or,
     ```bash
-    python SoulPrompt.py
+    python soul_prompt.py
     ```
 
 
@@ -45,7 +45,7 @@ A command-line tool that delivers personalized motivational quotes with smooth a
 Example:
 
 ```bash
-python3 SoulPrompt.py Soma
+python3 soul_prompt.py Soma
 ```
 
 
@@ -112,9 +112,6 @@ Built with ❤️ to inspire programmers, makers, and dreamers, or anybody who i
 "Success isn't gifted — it's built by relentless effort."
 
 Stay bold. Stay unstoppable. All the best! 💻✨
-
-
-
 
 
 
